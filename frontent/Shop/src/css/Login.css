@@ -1,0 +1,25 @@
+.girisForm {
+    margin: auto;
+    margin-top: 170px;
+    width: 400px;
+    padding: 30px;
+    font-weight: 500;
+}
+
+.girisForm2 {
+    margin: auto;
+    margin-top: 130px;
+    width: 400px;
+    padding: 30px;
+    font-weight: 500;
+}
+
+.pencere {
+    position: fixed;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: #f9e79f;
+    background-image: url('../../public/images/arkaplan.jpg');
+    background-size: 100% 100%;
+}

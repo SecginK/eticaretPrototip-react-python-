@@ -1,0 +1,18 @@
+.reklam {
+    width: 100%;
+    height: 340px;
+    margin: 50px 0px;
+    border-radius: 10px;
+    background-image: url('../../public/images/reklam.jpg');
+    background-size: 100%;
+    box-shadow: 0px 0px 15px 5px lightgray;
+
+}
+
+.kategori {
+    width: 100%;
+    height: 50px;
+    background-color: #f4d03f;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px 2px lightgray;
+}
