@@ -1,0 +1,22 @@
+.footer {
+    width: 100%;
+    height: 90px;
+    padding: 20px 60px;
+    background-color: #5b2c6f;
+    font-weight: 400;
+    font-size: x-large;
+    box-shadow: 0px -5px 15px 4px lightgrey;
+}
+
+.UrunSatir {
+    width: 80%;
+    height: auto;
+    padding: 20px;
+    margin-top: 80px;
+    margin-bottom: 0px;
+    border-bottom: 1px solid lightgray;
+}
+
+.cerceve {
+    padding-bottom: 200px;
+}
